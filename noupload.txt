@@ -1,0 +1,3 @@
+https://pruebalogin-dev.auth.us-east-1.amazoncognito.com
+
+https://pruebalogin-dev.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=2him0q5bhg316uddgih1lg6uvp&redirect_uri=http://localhost:3000/   CREATE_COMPLETE                Wed Dec 28 20
